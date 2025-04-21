@@ -6,13 +6,13 @@ By using the DNS name, you can access the 2048 game deployed on your infrastruct
 
 The firewall rule was successfully configured in Azure, allowing access to the application.
 
-![Azure Firewall Setup](azure-firewall-rule.png)
+![scrennshot](azure-firewall-rule.png)
 
 ### 🌐 Game Running on DNS
 
 The game is accessible using the DNS name provided by AWS Load Balancer.
 
-![2048 Game Access](2048-game-dns-access.png)
+![screenshot](2048-game-dns-access.png)
 
 🧠 **DNS Used:**  
 `k8s-game2048-ingress2-bcac0b5b37-1715446488.us-east-1.elb.amazonaws.com`
