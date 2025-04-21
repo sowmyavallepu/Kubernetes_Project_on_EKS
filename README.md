@@ -4,7 +4,7 @@ This project demonstrates how to deploy the classic 2048 game on Amazon EKS (Ela
 
 ---
 
-## 📦 [Module-1:Install EKS with Fargate](#module-1:Install EKS with Fargate) 
+## 📦 [module-1:Install EKS with Fargate](#module-1:Install EKS with Fargate) 
 
 In this step, you will create the EKS cluster and set up Fargate for your workloads. This will provide a serverless Kubernetes environment for your application.
 
