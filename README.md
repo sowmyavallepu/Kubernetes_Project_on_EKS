@@ -2,6 +2,15 @@
 
 This project demonstrates how to deploy the classic 2048 game on Amazon EKS (Elastic Kubernetes Service) using AWS Fargate, an ALB Ingress Controller, and Kubernetes best practices. It walks through setting up the cluster, configuring IAM roles and policies, deploying the app, and exposing it to the internet via DNS.
 
+## 📦 Project Modules Overview
+
+1. [Module 1: Install EKS with Fargate](#module-1-install-eks-with-fargate)
+2. [Module 2: Deploy 2048 App](#module-2-deploy-2048-app)
+3. [Module 3: Configure IAM OIDC Provider](#module-3-configure-iam-oidc-provider)
+4. [Module 4: Set Up ALB Ingress Controller](#module-4-set-up-alb-ingress-controller)
+5. [Module 5: Results and Access](#module-5-results-and-access)
+
+
 ---
 
 ## 📦 [module-1: Install EKS with Fargate](#module-1-Install-EKS-with-Fargate) 
