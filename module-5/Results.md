@@ -13,7 +13,7 @@ The firewall rule was successfully configured in Azure, allowing access to the a
 
 The game is accessible using the DNS name provided by AWS Load Balancer.
 
-![screenshot](2048-game-dns-access.png)
+![screenshot]((https://github.com/iam-veeramalla/aws-devops-zero-to-hero/assets/43399466/93b06a9f-67f9-404f-b0ad-18e3095b7353)
 
 🧠 **DNS Used:**  
 `k8s-game2048-ingress2-bcac0b5b37-1715446488.us-east-1.elb.amazonaws.com`
