@@ -7,7 +7,7 @@ By using the DNS name, you can access the 2048 game deployed on your infrastruct
 
 The firewall rule was successfully configured in Azure, allowing access to the application.
 
-![scrennshot](https://github.com/sowmyavallepu/Kubernetes_Project_on_EKS/blob/98bfd55289841e7352077488e005a35174792a7a/2048-game-dns-access.png)
+![scrennshot](https://github.com/sowmyavallepu/Kubernetes_Project_on_EKS/blob/d785cd9224d344d649b47989fdfea6728a0ddfb5/azure-firewall-rule.png)
 
 ### 🌐 Game Running on DNS
 
